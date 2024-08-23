@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NoMoreWasteApp</string>
+    <string name="r_sultats_des_recettes">Recettes possibles avec les produits disponibles dans notre stock</string>
+    <string name="recipe_image">Recipes Image</string>
+</resources>
